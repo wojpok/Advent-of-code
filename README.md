@@ -4,7 +4,7 @@ My attempt at solving [Advent of code 2022](https://adventofcode.com/2022)
 
 Current progress:
 
-Stars 8 / 50
+Stars 12 / 50
 
 #Day / score / programming language
 
@@ -19,3 +19,6 @@ Stars 8 / 50
 4 :star2: OCaml
 
 5 :star2: Racket
+
+6 :star2: Lisp (Lisp proudly becomes my personal #1 worst programming language)
+
