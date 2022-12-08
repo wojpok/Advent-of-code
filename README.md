@@ -23,3 +23,5 @@ Stars 14 / 50
 6 :star2: Lisp (Lisp proudly becomes my personal #1 worst programming language)
 
 7 :star2: JavaScript
+
+8 :star2: C#
