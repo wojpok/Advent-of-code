@@ -4,7 +4,7 @@ My attempt at solving [Advent of code 2022](https://adventofcode.com/2022)
 
 Current progress:
 
-Stars 20 / 50
+Stars 23 / 50
 
 #Day / score / programming language
 
@@ -29,3 +29,7 @@ Stars 20 / 50
 9 :star2: Kotlin 
 
 10 :star2: Clojure
+
+11 :star: Lua
+
+12 :star2: Julia
